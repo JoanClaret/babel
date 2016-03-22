@@ -1,2 +1,2 @@
 # babel
-Babel tests ES6 to ES5
+Gulp + Babel setup 
